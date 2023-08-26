@@ -10,7 +10,7 @@ Pour cela, nous allons devoir commencer par en causer un !
 
 Étapes à suivre, une par une:
 
-1. Créer un nouveau dépôt sur GitLab
+1. Créer un nouveau dépôt sur Github
 2. Cloner ce dépôt localement avec `git clone`
 3. Dans le répertoire du dépôt local, créer un fichier `README.md` contenant les paroles d'une chanson de votre choix
 4. Créer un commit initial sur la banche master et l'envoyer sur GitLab avec `git add`, `git commit` puis `git push`
