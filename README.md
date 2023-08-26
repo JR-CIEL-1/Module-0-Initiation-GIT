@@ -36,7 +36,6 @@ Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les ét
 #### Programme
 
 - TD 2.1: [Résoudre un conflit de fusion](tutos/conflit-de-fusion.md)
-- TD 2.2: [Contribuer à un projet open-source sur GitHub](tutos/contribution-open-source.md)
 
 ## Au delà du cours
 
