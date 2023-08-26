@@ -32,7 +32,7 @@ Autres infos qui pourraient vous aider si vous êtes bloqué(e):
 À suivre une par une:
 
 1. Vérifier dans le terminal que `git` est bien installé: `$ git version`. Si ce n'est pas le cas, installez-le en suivant les recommandations de votre système d'exploitation où en le téléchargeant depuis [git-scm.com/downloads](https://git-scm.com/downloads), puis redémarrez votre terminal.
-1. Vérifier dans le terminal que vous êtes identifié(e): `$ git config user.email` doit afficher votre adresse email EEMI. Si ce n'est pas le cas, suivez les instructions de la section "Votre identité" de [Paramétrage à la première utilisation de Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Param%C3%A9trage-%C3%A0-la-premi%C3%A8re-utilisation-de-Git).
+1. Vérifier dans le terminal que vous êtes identifié(e): `$ git config user.email` doit afficher votre adresse email Jean Rostand. Si ce n'est pas le cas, suivez les instructions de la section "Votre identité" de [Paramétrage à la première utilisation de Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Param%C3%A9trage-%C3%A0-la-premi%C3%A8re-utilisation-de-Git).
 1. Ouvrir l'interface web GitLab de l'EEMI: [gitlab.eemi.tech](https://gitlab.eemi.tech/)
 1. Si vous ne l'avez pas encore fait, ajoutez un mot de passe à votre compte GitLab, depuis la page de paramètres de votre compte GitLab
 1. Toujours depuis de l'interface de GitLab, créez un dépôt:
