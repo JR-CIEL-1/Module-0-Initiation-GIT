@@ -1,4 +1,4 @@
-## Créer un dépôt `git` sur le serveur GitLab de l'EEMI
+## Créer un dépôt `git` sur le serveur GitLab de la section CIEL
 
 Dans ce tuto, nous allons:
 
