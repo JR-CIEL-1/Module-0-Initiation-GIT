@@ -23,7 +23,7 @@ Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les ét
   - problèmes et solutions
   - terminologie, flot, commandes de base
 - TD 1.1: [Créer un dépôt `git` sur le serveur GitHub](tutos/creer-depot-gitlab-eemi.md)
-- TD 1.2: [Collaborer sur un dépôt GitLab](tutos/collaborer-sur-un-depot-gitlab.md)
+- TD 1.2: [Collaborer sur un dépôt Github](tutos/collaborer-sur-un-depot-gitlab.md)
 
 #### *Pro tips*
 
