@@ -17,8 +17,6 @@ Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les ét
 
 ## Première partie (2h)
 
-📌 Support de cours: <a href="./slides/index.html" target="_blank">Slides</a> (presser P pour afficher les notes)
-
 #### Programme
 
 - Cours: Introduction à git:
