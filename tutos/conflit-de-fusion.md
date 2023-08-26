@@ -13,15 +13,16 @@ Pour cela, nous allons devoir commencer par en causer un !
 1. Créer un nouveau dépôt sur Github
 2. Cloner ce dépôt localement avec `git clone`
 3. Dans le répertoire du dépôt local, créer un fichier `README.md` contenant les paroles d'une chanson de votre choix
-4. Créer un commit initial sur la banche master et l'envoyer sur GitLab avec `git add`, `git commit` puis `git push`
-5. Créer une branche `branche1` à partir de `master`, avec la commande `git checkout -b`
-6. Dans le `README.md` de cette branche, modifier à votre guise la première phrase des paroles, créer un commit, puis envoyer les modifications de cette branche sur GitHub
-7. Revenir à la branche `master` avec `git checkout`
-8. Créer une branche `branche2` à partir de `master` (comme dans l'étape 5)
-9. Dans le `README.md` de cette branche, modifier également la première phrase des paroles avec un texte différent de celui saisi à l'étape 6, créer un commit, puis envoyer les modifications de cette branche sur GitHub
-10. Revenir à la branche `master`
-11. Fusionner `branche1` dans `master`, avec `git merge`
-12. Fusionner `branche2` dans `master`
+4. Créer un commit initial sur la banche main et l'envoyer sur GitLab avec `git add`, `git commit` puis `git push`
+5. Créer une branche `branche1` à partir de `main`, avec la commande `git checkout -b branche1`
+6. Verifier que vous êtes bien dans la branche branche1 avec la commande `$ git branch`
+7. Dans le `README.md` de cette branche, modifier à votre guise la première phrase des paroles, créer un commit, puis envoyer les modifications de cette branche sur GitHub
+8. Revenir à la branche `main` avec `git checkout main`
+9. Créer une branche `branche2` à partir de `main` (comme dans l'étape 5)
+10. Dans le `README.md` de cette branche, modifier également la première phrase des paroles avec un texte différent de celui saisi à l'étape 6, créer un commit, puis envoyer les modifications de cette branche sur GitHub
+11. Revenir à la branche `main`
+12. Fusionner `branche1` dans `main`, avec `git merge`
+13. Fusionner `branche2` dans `main`
 
 Si vous avez bien suivi cette procédure, vous devriez obtenir un conflit de fusion:
 
