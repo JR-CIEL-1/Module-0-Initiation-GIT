@@ -49,5 +49,5 @@ Autres infos qui pourraient vous aider si vous êtes bloqué(e):
     - `$ git status` (optionnel) pour afficher le contenu actuel de l'espace de staging (index)
     - `$ git commit -m "ajout du fichier README.md"` pour créer un commit à partir de l'espace de staging. Notez que le texte fourni entre guillemets est libre. Similairement à l'objet d'un email, ce message permet d'expliquer de manière concise quelles modifications sont apportées au dépôt par votre commit.
     - `$ git status` (optionnel) pour constater que l'espace de staging a été réinitialisé et qu'aucun fichier n'a été modifié depuis votre commit
-    - `$ git push` pour uploader votre commit sur votre dépôt distant, hébergé sur le serveur GitLab de l'EEMI.
+    - `$ git push` pour uploader votre commit sur votre dépôt distant : vous devrez créer un token pour cela suivez la video suivante : https://www.youtube.com/watch?v=FugonDV6RdE
 1. Le fichier `README.md` devrait maintenant être visible depuis la page web du dépôt, sur GitLab.
