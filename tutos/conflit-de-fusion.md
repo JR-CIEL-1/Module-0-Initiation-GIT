@@ -16,13 +16,13 @@ Pour cela, nous allons devoir commencer par en causer un !
 4. Créer un commit initial sur la banche main et l'envoyer sur Github avec `git add`, `git commit` puis `git push`
 5. Créer une branche `branche1` à partir de `main`, avec la commande `git checkout -b branche1`
 6. Verifier que vous êtes bien dans la branche branche1 avec la commande `$ git branch`
-7. Dans le `README.md` de cette branche, modifier à votre guise la première phrase des paroles, créer un commit, créer une branche sur gitHub avec la commenade  `git push --set-upstream origin branche1 ` puis envoyer les modifications de cette branche sur GitHub
+7. Dans le `README.md` de cette branche, modifier à votre guise la première phrase des paroles, créer un commit, créer une branche sur gitHub et envoyer les modifications avec la commenade  `git push --set-upstream origin branche1 `
 8. Revenir à la branche `main` avec `git checkout main`
 9. Créer une branche `branche2` à partir de `main` (comme dans l'étape 5)
-10. Dans le `README.md` de cette branche, modifier également la première phrase des paroles avec un texte différent de celui saisi à l'étape 7, créer un commit, puis envoyer les modifications de cette branche sur GitHub
+10. Dans le `README.md` de cette branche, modifier également la première phrase des paroles avec un texte différent de celui saisi à l'étape 7, créer un commit, créer une branche sur gitHub et envoyer les modifications avec la commenade  `git push --set-upstream origin branche2 `
 11. Revenir à la branche `main`
-12. Fusionner `branche1` dans `main`, avec `git merge`
-13. Fusionner `branche2` dans `main`
+12. Fusionner `branche1` dans `main`, avec `git merge branche1`
+13. Fusionner `branche2` dans `main` , avec `git merge branche2`
 
 Si vous avez bien suivi cette procédure, vous devriez obtenir un conflit de fusion:
 
@@ -68,4 +68,4 @@ nothing to commit, working tree clean
 
 ### Bonus
 
-- supprimer les branches `branche1` et `branche2`, non seulement dans votre dépôt local, mais aussi dans le dépôt distant associé (sur GitLab).
+- supprimer les branches `branche1` et `branche2`, non seulement dans votre dépôt local, mais aussi dans le dépôt distant associé (sur GitHub).
