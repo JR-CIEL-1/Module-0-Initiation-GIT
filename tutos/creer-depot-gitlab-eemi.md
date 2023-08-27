@@ -1,9 +1,9 @@
-## Créer un dépôt `git` sur le serveur GitLab de la section CIEL
+## Créer un dépôt `git` sur le serveur GitHub de la section CIEL
 
 Dans ce tuto, nous allons:
 
 - installer et/ou configurer `git`
-- créer un dépôt sur GitLab
+- créer un dépôt sur Github
 - cloner ce dépôt sur votre disque dur (`git clone`)
 - y ajouter un fichier (`git add`, `git commit`), puis mettre à jour le dépôt distant (`git push`)
 
