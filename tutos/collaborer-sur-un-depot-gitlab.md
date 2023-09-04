@@ -37,4 +37,4 @@ Dans ce tuto, nous allons chacun:
 1. S'assurer qu'on a bien les dernières mises à jour (`git pull`)
 1. Créer un nouveau fichier dans le dépôt local, puis l'ajouter à l'index (`git add`)
 1. Créer un commit contenant ce fichier (`git commit`) puis l'envoyer sur le dépôt de l'autre étudiant (`git push`)
-1. Dans l'interface web de GitLab, aller sur le projet de votre camarade, puis cliquez sur "commits" pour vérifier que votre commit apparaît bien dans la liste.
+1. Dans l'interface web de GitHub, aller sur le projet de votre camarade, puis cliquez sur "commits" pour vérifier que votre commit apparaît bien dans la liste.
