@@ -19,7 +19,7 @@ Pour cela, nous allons devoir commencer par en causer un !
 7. Dans le `README.md` de cette branche, modifier à votre guise la première phrase des paroles, créer un commit, créer une branche nommée `branche1` sur gitHub et envoyer les modifications avec la commenade  `git push --set-upstream origin branche1 `
 8. Revenir à la branche `main` avec `git checkout main`
 9. Créer une branche `branche2` à partir de `main` (comme dans l'étape 5)
-10. Dans le `README.md` de cette branche, modifier également la première phrase des paroles avec un texte différent de celui saisi à l'étape 7, créer un commit, créer une branche sur gitHub et envoyer les modifications avec la commenade  `git push --set-upstream origin branche2 `
+10. Dans le `README.md` de cette branche, modifier également la première phrase des paroles avec un texte différent de celui saisi à l'étape 7, créer un commit, créer une branche sur gitHub nommée `branche2` et envoyer les modifications avec la commande  `git push --set-upstream origin branche2 `
 11. Revenir à la branche `main`
 12. Fusionner `branche1` dans `main`, avec `git merge branche1`
 13. Fusionner `branche2` dans `main` , avec `git merge branche2`
@@ -50,14 +50,7 @@ Unmerged paths:
 
 Pour résoudre ce conflit, il va falloir:
 
-1. ouvrir le fichier `README.md` dans son éditeur de code,
-2. constater comment `git` représente le conflit, et la source de chaque version,
-3. éditer le fichier pour ne conserver que la version finale souhaitée,
-4. puis créer un commit.
-
-> Au moment du commit:
-> - si vous vous retrouvez dans l'éditeur `vi`, tapez `:wq` pour quitter en sauvegardant le fichier;
-> - si vous vous retrouvez dans l'éditeur `nano`, pressez `Ctrl-X` pour quitter.
+[ressource classroom pour la résolution de conflit lors d'un merge](https://openclassrooms.com/fr/courses/7688581-devenez-un-expert-de-git-et-github/7851552-resolvez-les-conflits-avec-git)
 
 Après la résolution du conflit de fusion, `git status` devrait répondre ceci:
 
@@ -69,3 +62,5 @@ nothing to commit, working tree clean
 ### Bonus
 
 - supprimer les branches `branche1` et `branche2`, non seulement dans votre dépôt local, mais aussi dans le dépôt distant associé (sur GitHub).
+
+  
