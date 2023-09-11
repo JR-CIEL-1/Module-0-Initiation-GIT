@@ -52,4 +52,4 @@ Autres infos qui pourraient vous aider si vous êtes bloqué(e):
     - `$ git push` pour uploader votre commit sur votre dépôt distant il y a deux méthodes possibles :
       - soit vous connecter en utilisant votre login et mot de passe
       - soit créer un token pour cela suivez la video suivante : https://www.youtube.com/watch?v=FugonDV6RdE
-1. Le fichier `README.md` devrait maintenant être visible depuis la page web du dépôt, sur GitLab.
+1. Le fichier `README.md` devrait maintenant être visible depuis la page web du dépôt, sur GitHub.
