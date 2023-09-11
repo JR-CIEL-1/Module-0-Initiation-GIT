@@ -35,8 +35,8 @@ Autres infos qui pourraient vous aider si vous êtes bloqué(e):
 1. Vérifier dans le terminal que vous êtes identifié(e): `$ git config user.email` doit afficher votre adresse email Jean Rostand. Si ce n'est pas le cas, suivez les instructions de la section "Votre identité" de [Paramétrage à la première utilisation de Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Param%C3%A9trage-%C3%A0-la-premi%C3%A8re-utilisation-de-Git).
 1. Ouvrir l'interface web GitHub
 1. Toujours depuis de l'interface de Github, créez un dépôt:
-   - Cliquer sur "Nouveau projet"
-   - Le nom du projet sera aussi le nom du dépôt correspondant => donner un nom de projet concis, en minuscules, et séparé par des tirets
+   - Cliquer sur "Nouveau"
+   - Le nom du dépôt devra être concis, en minuscules, et séparé par des tirets.
    - Choisissez "public", afin que le dépôt soit accessible en lecture aux autres étudiants
    - Copier l'adresse HTTPS fournie dans la page du dépôt
 1. Dans le terminal:
