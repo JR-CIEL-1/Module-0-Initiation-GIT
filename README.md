@@ -8,14 +8,13 @@ Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les ét
 - Découvrir la philosophie Open Source, et les principes de collaboration employés sur ces projets
 - Maîtriser les opérations et commandes de GIT de base: init, clone, checkout, merge, pull, push
 - Comprendre le concept de conflit, et savoir le résoudre
-- Application: forker un projet Github Pages fourni, y contribuer, puis proposer un Pull Request
 
 #### Compétences requises
 
 - Savoir utiliser le terminal/shell
 - Lire documentation et exemples en anglais sur internet
 
-## Première partie (2h)
+## Première Etape (2h)
 
 #### Programme
 
@@ -29,9 +28,9 @@ Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les ét
 
 - Harmoniser l'encodage des fin de lignes
 - Visualisation de l'historique dans le terminal
-- Éviter d'avoir à taper son mot de passe Gitlab à chaque fois
+- Éviter d'avoir à taper son mot de passe GitHub à chaque fois
 
-## Deuxième partie (2h)
+## Deuxième Etape (2h)
 
 #### Programme
 
