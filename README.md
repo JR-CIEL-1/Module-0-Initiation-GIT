@@ -1,4 +1,6 @@
-![Logo git](logo.png)
+<p align="center">
+  <img src="logo.png" alt="Logo git">
+</p>
 
 Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les étudiants de l'EEMI à l'utilisation de l'outil `git`.
 
@@ -14,7 +16,7 @@ Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les ét
 - Savoir utiliser le terminal/shell
 - Lire documentation et exemples en anglais sur internet
 
-## Première Etape (2h)
+## Étape 1 : (2h)
 
 #### Programme
 
@@ -30,7 +32,7 @@ Ce support de cours a été conçu en 2018 par Adrien Joly, pour initier les ét
 - Visualisation de l'historique dans le terminal
 - Éviter d'avoir à taper son mot de passe GitHub à chaque fois
 
-## Deuxième Etape (2h)
+## Étape 2 : (2h)
 
 #### Programme
 
